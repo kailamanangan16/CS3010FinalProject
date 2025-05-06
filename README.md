@@ -15,9 +15,9 @@ p'''''=x+y+z+t+p
 # Notes:
 ## 3 different functions: 
 <ins>Sum</ins>
-* 
+* will add all the integrated variables together
 <ins>Integrate</ins>
-* 
+* will integrate the variables
 <ins>Equate</ins>
 * if the finished equation is completed, then equate will return true
 
